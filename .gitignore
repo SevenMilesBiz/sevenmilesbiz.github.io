@@ -32,4 +32,4 @@ Thumbs.db
 *.jar
 *.rar
 *.tar
-*.zip
+# *.zip
